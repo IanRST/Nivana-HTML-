@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Nirvana Website Project</title>
   <style>
     body {
       font-family: sans-serif;
